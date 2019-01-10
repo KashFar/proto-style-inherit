@@ -22,7 +22,7 @@ Speaker.prototype.markInactive = function (date){
 }
 
 function KeynoteSpeaker (websites, keynoteTopics, breakouts, givenName, surname, email, biography){
-Speaker.call(this, this, this, givenName, surname, email, biography);
+Speaker.call(this, givenName, surname, email, biography);
 this.websites = websites;
 this.keynoteTopics = keynoteTopics;
 this.breakouts = breakouts;
