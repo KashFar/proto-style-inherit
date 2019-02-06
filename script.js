@@ -44,3 +44,6 @@ let Alex = new Speaker ("Alex", "Manuel", "gmail", "Hi, how are you?")
 let Tom = new KeynoteSpeaker ("Keynote.com", "Entrepreneurship", "14 minute breakouts", "Tom", "Sanchesto", "Hotmail", "You, Don't know me!")
 
 let Sam = new WorkshopSpeaker  ("personal Finance", "Sam", "Samanathanos", "Verizon.net", "They call me Sam, Destroyer of Worlds.")
+
+lockup
+LOCK
